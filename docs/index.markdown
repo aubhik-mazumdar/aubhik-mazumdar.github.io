@@ -4,7 +4,4 @@
 
 layout: home
 ---
-
-
-
 Trying this site
