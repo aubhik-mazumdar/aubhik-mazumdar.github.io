@@ -4,7 +4,7 @@
 
 # layout: home
 layout: page
-title: "HOMEPAGE"
+title: "Index"
 permalink: /index/
 ---
-MY FIRST LANDING PAGE
+This is the index page
