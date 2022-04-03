@@ -23,17 +23,17 @@ email: aubhik.mazumdar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Welcome to my personal site. You can find out a bit about me here,
     if you like what you see, feel free to reach out and say hi!
-url: https://aubhik-mazumdar.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://aubhik-mazumdar.github.io
 twitter_username: aubhikcr7
 github_username:  aubhik-mazumdar
 
 # Build settings
 theme: minima
+# remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
-gems:
-  - jekyll-feed
 plugins:
-  - jekyll-feed
+- jekyll-feed
+- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
